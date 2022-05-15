@@ -23,7 +23,6 @@
   </div>
 </body>
 <footer>
-  
   <script src="https://static.line-scdn.net/liff/edge/2.9/sdk.js"></script>
   <script>
     /// Config Your LIFF ID Here
